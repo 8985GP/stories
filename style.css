@@ -1,0 +1,21 @@
+img {
+  height: 250 px;
+  width: 250 px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  border: 5px solid black;
+  background: linear-gradient(white, grey, black);
+}
+h3 {
+  text-align: center;
+  font-size: xx-large;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: aqua;
+}
+h1 {
+  margin-bottom: 100px;
+  color: linear-gradient(white, grey, black);
+}
